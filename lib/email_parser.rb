@@ -15,4 +15,4 @@ class EmailAddressParser
  end
     
 emails = "avi@test.com, arel@test.com test@avi.com, test@arel.com"
-parse = EmailAddressParser.new("avi@test.com, arel@test.com test@avi.com, test@arel.com")
+parser = EmailAddressParser.new("avi@test.com, arel@test.com test@avi.com, test@arel.com")
