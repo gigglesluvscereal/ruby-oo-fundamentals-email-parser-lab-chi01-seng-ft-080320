@@ -15,3 +15,4 @@ class EmailAddressParser
  end
     
 emails = EmailAddressParser.new("avi@test.com, arel@test.com test@avi.com, test@arel.com")
+parse=parse
