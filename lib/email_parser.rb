@@ -16,3 +16,4 @@ class EmailAddressParser
     
 email = "avi@test.com, arel@test.com test@avi.com, test@arel.com"
 parser = EmailAddressParser.new(email)
+parser.parse
