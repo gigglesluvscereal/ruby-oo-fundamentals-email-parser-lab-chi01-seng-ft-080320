@@ -14,4 +14,4 @@ class EmailAddressParser
   end
  end
     
-emails = 
+emails = EmailAddressParser.new 
